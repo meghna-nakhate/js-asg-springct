@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(219, 150, 61);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.a1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:10px;
+}
+
+.d1{
+background-color: rgb(172, 246, 248);
+height: 60px;
+width: 200px;
+}
+.d2{
+background-color: rgb(120, 120, 236);
+height: 60px;
+width: 200px;
+}
+.d3{
+    background-color: rgb(123, 21, 21);
+    height: 60px;
+width: 200px;
+    }
+.d4{
+background-color: rgb(159, 237, 159);
+height: 60px;
+width: 200px;
+}
+
+.d5{
+    background-color: cyan;
+    height: 60px;
+width: 200px;
+    }
+
+.d6{
+    background-color: violet;
+    height: 60px;
+width: 200px;
+}
